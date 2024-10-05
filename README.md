@@ -3,7 +3,7 @@
 Run this:
 
 ```sh
-$ git clone --recursive https://github.com/morritech/setup ~/.dotfiles
+$ git clone --recursive https://github.com/morritech/setup-dotfiles ~/.dotfiles
 $ caffeinate ~/.dotfiles/zero/setup
 ```
 
